@@ -12,7 +12,7 @@
     }
   },
   "dependencies": {
-    "byte": "~0.3.1",
+    "byte": "~1.4.1",
     "debug": "~1.0.4",
     "long": "~2.0.0",
     "utility": "~1.0.0"
